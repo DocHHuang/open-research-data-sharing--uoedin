@@ -29,4 +29,4 @@ originalRepository: emma-wilson/data-sharing-workshop
 This is a description of data sharing.
 
 > ## Discussion
-> What are the benefits and drawbacks of sharing data?  "comment here"
+> What are the benefits and drawbacks of sharing data?  <!-- comment here -->
