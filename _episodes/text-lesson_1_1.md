@@ -29,4 +29,3 @@ This is a description of data sharing.
 
 > ## Discussion
 > What are the benefits and drawbacks of sharing data?
-{: .prereq}
