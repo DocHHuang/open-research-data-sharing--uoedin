@@ -1,8 +1,8 @@
 ---
 title: Text Lesson
-teaching: null
-exercises: null
-duration: null
+teaching: 30
+exercises: 30
+duration: 15
 summary: This template shows you how to use the various different special text
   boxes on offer.
 questions: null
