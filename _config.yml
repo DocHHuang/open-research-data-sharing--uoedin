@@ -5,14 +5,18 @@ title: Open Qualitative Research
 instructors:
   - Huayi
   - H
-instructor_emails: []
+instructor_emails:
+  - huayi.huang@ed.ac.uk
+  - huayi.huang@ed.ac.uk
 helpers: []
 start_times:
   - 09|00
 setup_files: []
 language: en
 venue: null
-address: null
+address: |-
+  Usher Institute – University of Edinburgh
+  Old Medical School
 country: null
 latitude: null
 longitude: null
