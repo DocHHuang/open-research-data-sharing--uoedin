@@ -1,8 +1,8 @@
 ---
-title: Introduction
+title: Introduction...
 teaching: 20
 exercises: 10
-duration: null
+duration: 18
 summary: Introduction to the workshop and a discussion of the attendee's current
   knowledge.
 questions:
@@ -12,7 +12,8 @@ questions:
 objectives:
   - Introduce the concept of data sharing
   - Discuss benefits and concerns
-keypoints: null
+keypoints:
+  - Key pt 1, 2, 3
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
